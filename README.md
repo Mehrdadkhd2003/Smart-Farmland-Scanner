@@ -43,3 +43,14 @@ Ready for drones, satellites, ANY aerial view
 Scales from backyard gardens to mega-farms
 
 Ready to turn your satellite snapshots into FARM INTELLIGENCE? Let OpenCV be your wingman! 🚜
+
+opencv
+computer-vision
+precision-agriculture
+satellite-imagery
+farmland-detection
+contour-detection
+image-processing
+python
+agritech
+ai-agriculture
