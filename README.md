@@ -5,8 +5,8 @@ Transform ordinary satellite images into intelligent farm maps that automaticall
 Hunt individual farmland boundaries in stunning aerial views and battle-rank them by size – because every farmer deserves to know which plot reigns supreme!
 
 🔥 The Epic Processing Adventure
-**Stage 1: IMAGE ARMORING
-**
+Stage 1: IMAGE ARMORING
+
 Supercharges your satellite photo with a glowing white fortress border to trap sneaky edge-escaping contours
 Grayscale ninja mode activated for lightning-fast processing
 Bilateral filter magic – zaps noise while keeping boundaries razor-sharp!
